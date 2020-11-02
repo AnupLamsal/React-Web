@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Web/static/css/main.7a6162e1.chunk.css",
+    "main.js": "/React-Web/static/js/main.17a78e6c.chunk.js",
+    "main.js.map": "/React-Web/static/js/main.17a78e6c.chunk.js.map",
+    "runtime-main.js": "/React-Web/static/js/runtime-main.7eaf9f64.js",
+    "runtime-main.js.map": "/React-Web/static/js/runtime-main.7eaf9f64.js.map",
+    "static/js/2.5a2f7b2d.chunk.js": "/React-Web/static/js/2.5a2f7b2d.chunk.js",
+    "static/js/2.5a2f7b2d.chunk.js.map": "/React-Web/static/js/2.5a2f7b2d.chunk.js.map",
+    "index.html": "/React-Web/index.html",
+    "precache-manifest.99d9ae1d98618da4799d64f7d23a4b5a.js": "/React-Web/precache-manifest.99d9ae1d98618da4799d64f7d23a4b5a.js",
+    "service-worker.js": "/React-Web/service-worker.js",
+    "static/css/main.7a6162e1.chunk.css.map": "/React-Web/static/css/main.7a6162e1.chunk.css.map",
+    "static/js/2.5a2f7b2d.chunk.js.LICENSE.txt": "/React-Web/static/js/2.5a2f7b2d.chunk.js.LICENSE.txt",
+    "static/media/img1.jpeg": "/React-Web/static/media/img1.ac5a83b7.jpeg",
+    "static/media/img2.jpeg": "/React-Web/static/media/img2.fe3c12d0.jpeg",
+    "static/media/img3.jpeg": "/React-Web/static/media/img3.1e60b055.jpeg",
+    "static/media/img4.jpeg": "/React-Web/static/media/img4.46ef256d.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7eaf9f64.js",
+    "static/js/2.5a2f7b2d.chunk.js",
+    "static/css/main.7a6162e1.chunk.css",
+    "static/js/main.17a78e6c.chunk.js"
+  ]
+}
